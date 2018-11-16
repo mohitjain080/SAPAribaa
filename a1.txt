@@ -4,3 +4,6 @@ kakaka
 
 to test fetch
 to check gfetch from qa
+
+
+remote 1
